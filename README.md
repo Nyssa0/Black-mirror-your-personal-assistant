@@ -6,8 +6,9 @@ Ce projet consiste à la création d'un épisode de Black Mirror, la série Netf
 2.	Affiche2.pdf
 3.	Accueil Netflix.png
 4.	Fiche personnage.pdf
-5.	Black Mirror - your personal assistant.mp4
-6.	Episode intéractif
+5.	Locknote (bande annonce)
+6.	Black Mirror - your personal assistant.mp4
+7.	Episode intéractif
 
 ### Auteurs
 ```
